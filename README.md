@@ -1,5 +1,5 @@
 
-<p>Requirement: Django 4.1.3, Echart, Bootstrap 3 </p>
+<p>Requirement: Django 4.1.3, Echart, Bootstrap 3, Pandas 1.5.0 </p>
 
 <hr>
 <div>Login page</div>
